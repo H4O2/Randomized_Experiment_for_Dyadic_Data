@@ -1,0 +1,30 @@
+THIRD-PARTY DATA ATTRIBUTION
+===========================
+
+Covered input: codes/socfb-Caltech36.mtx (Caltech36 / socfb-Caltech36).
+Source dataset page: https://networkrepository.com/socfb-Caltech36.php
+Data policy and license notice: https://networkrepository.com/policy.php
+Checked: 19 October 2026.
+
+Network Repository identifies its dataset terms as Creative Commons
+Attribution-ShareAlike. Its policy page does not identify a numbered license
+version; no specific version is substituted here. Preserve the source credit,
+policy link and any source notices when redistributing the network or derived
+graph data. The MIT license for this software does not override those terms.
+
+This copy preserves the exact input bytes supplied with the paper, including
+the single-percent MatrixMarket header. Processing retains all vertices and
+undirected edges. It does not add personal identifiers or node attributes.
+
+The dataset page requests attribution to:
+  Ryan A. Rossi and Nesreen K. Ahmed (2015), The Network Data Repository with
+  Interactive Graph Analytics and Visualization, AAAI.
+  Amanda L. Traud, Peter J. Mucha and Mason A. Porter (2012), Social structure
+  of Facebook networks, Physica A 391(16), 4165-4180.
+  Amanda L. Traud, Eric D. Kelsic, Peter J. Mucha and Mason A. Porter (2011),
+  Comparing Community Structure to Characteristics in Online Collegiate Social
+  Networks, SIAM Review 53(3), 526-543.
+
+BibTeX records are supplied in DATA_REFERENCES.bib.
+Third-party Python dependencies retain their respective licenses and are
+installed separately; their distributions are not bundled in this repository.

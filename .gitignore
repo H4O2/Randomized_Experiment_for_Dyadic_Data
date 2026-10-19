@@ -1,0 +1,10 @@
+/fig/
+/results/
+/runs/
+/manifest.json
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+*.zip

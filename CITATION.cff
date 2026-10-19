@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this software, the accompanying paper, and the relevant data sources when using these materials."
+type: software
+title: "Reproducibility materials for Causal inference with dyadic data in randomized experiments"
+authors:
+  - family-names: Li
+    given-names: Yilin
+  - family-names: Deng
+    given-names: Lu
+  - family-names: Wang
+    given-names: Yong
+  - family-names: Miao
+    given-names: Wang
+repository-code: "https://github.com/H4O2/Randomized_Experiment_for_Dyadic_Data"
+url: "https://github.com/H4O2/Randomized_Experiment_for_Dyadic_Data"
+license: MIT
+abstract: "Source code and public network input for reproducing finite-population simulations for randomized experiments with dyadic outcomes. Populations, Monte Carlo estimates, summaries, and figures are generated when the code runs. Confidential WeChat application materials are not included."
+keywords:
+  - causal inference
+  - dyadic data
+  - randomized experiments
+  - reproducibility
