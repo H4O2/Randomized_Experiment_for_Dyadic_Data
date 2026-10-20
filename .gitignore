@@ -8,3 +8,11 @@ __pycache__/
 .DS_Store
 *.log
 *.zip
+
+# Local example data are not part of this code release.
+/dataset/
+/dateset/
+**/dyadic_dataset_example.csv
+
+# Output from the optional exhaustive validation tool.
+/codes/exact_validation.json

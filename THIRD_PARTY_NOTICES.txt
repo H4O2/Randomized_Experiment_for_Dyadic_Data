@@ -25,6 +25,5 @@ The dataset page requests attribution to:
   Comparing Community Structure to Characteristics in Online Collegiate Social
   Networks, SIAM Review 53(3), 526-543.
 
-BibTeX records are supplied in DATA_REFERENCES.bib.
 Third-party Python dependencies retain their respective licenses and are
 installed separately; their distributions are not bundled in this repository.
